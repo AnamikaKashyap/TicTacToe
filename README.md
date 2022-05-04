@@ -163,7 +163,7 @@ function putSign(e) {
 </script>
 </head>
 <body>
-<h1> Made by Anamika Kashyap</h1>
+
 <div class="container">
   <table class="table">
     <thead>
